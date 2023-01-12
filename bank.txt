@@ -1,0 +1,8 @@
+===========Bank ============
+1|Our Bank|8006758900www.ourbank.com
+===========Employee[s] ============
+41|MarySantiago|marys@yahoo.com63022947336000.0
+43|JerrySalavar|jerrys@yahoo.com31245795644000.0
+42|ReemaPatel|rpatel@gmail.com847535667732.0
+44|JackRoy|jroy@gmail.com889866907735.0
+83|samianawaz|sam98@gmailcom6758345098050.67
